@@ -1,0 +1,46 @@
+[
+  {
+    "attachment":{
+      "type":"template",
+      "payload":{
+        "template_type":"generic",
+        "elements":[
+          {
+            "title":"CF Rockets VS Denver Broncos",
+            "image_url":"http://ec2-54-93-216-56.eu-central-1.compute.amazonaws.com/rockets/json/broncos.jpg",
+            "subtitle":"Aug 22, 2016 7:00PM",
+            "buttons":[
+              {
+                "type":"show_block",
+                "block_name":"Broncos Ticker",
+                "title":"Subscribe for Ticker"
+              },
+              {
+                "type":"web_url",
+                "url":"http://stripe.com/checkout",
+                "title":"Buy Tickets"
+              }
+            ]
+          },
+          {
+            "title":"CF Rockets VS Sacramento Kings",
+            "image_url":"http://ec2-54-93-216-56.eu-central-1.compute.amazonaws.com/rockets/json/kings.jpg",
+            "subtitle":"Aug 31, 2016 5:20PM",
+            "buttons":[
+              {
+                "type":"show_block",
+                "block_name":"Sacramento Ticker",
+                "title":"Subscribe for Ticker"
+              },
+              {
+                "type":"web_url",
+                "url":"http://stripe.com/checkout",
+                "title":"Buy Tickets"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

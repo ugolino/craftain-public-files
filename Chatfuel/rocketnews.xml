@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Rocket News</title>
+		<link>https://chatfuel.com</link>
+		<description>Receive all the latest news about the Chatfuel Rockets!</description>
+		<image>
+			<url>http://ec2-54-93-216-56.eu-central-1.compute.amazonaws.com/rockets/rss/shuttle.jpg</url>
+			<title>Rocket News</title>
+			<link>https://www.chatfuel.com</link>
+		</image>
+		<item>
+			<title>Rockets sign Salihbegovic!</title>
+			<link>https://twitter.com/xSOLID/status/762720285900546048</link>
+			<guid>https://twitter.com/xSOLID/status/762720285900546048</guid>
+			<pubDate>Mon, 08 Aug 2016 10:41:14 GMT</pubDate>
+			<description>Looking for more depth on the offensive, the Rockets on Wednesday signed Kenan Salihbegovic. "Salihbegovic is a great blessing," the team's captain told our media division. "We were able to win a skilled player for us and I am confident, that he will help us score many goals in the future." Welcome, Salihbegovic!</description>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ec2-54-93-216-56.eu-central-1.compute.amazonaws.com/rockets/rss/kenan.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>White House announces own football team!</title>
+			<link>http://venturebeat.com/2016/08/17/how-to-build-a-better-bot-than-president-obamas-in-15-minutes/</link>
+			<guid>http://venturebeat.com/2016/08/17/how-to-build-a-better-bot-than-president-obamas-in-15-minutes/</guid>
+			<pubDate>Wed, 17 Aug 2016 22:43:18 GMT</pubDate>
+			<description>Last week the Chatfuel Rockets analyzed the team of the White House Warriors. The Chatfuel Rockets, together with the VB Stars, suggested improvements to the team's structure for better offensive and defensive moves and are curious how the WH Warriors will shape themselves in the future. Good luck, Mr President!</description>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ec2-54-93-216-56.eu-central-1.compute.amazonaws.com/rockets/rss/potus.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Advice from a pro-player!</title>
+			<link>http://www.marketersstudio.com/2016/08/adventures-in-botsitting-how-marketers-should-approach-chatbots.html</link>
+			<guid>http://www.marketersstudio.com/2016/08/adventures-in-botsitting-how-marketers-should-approach-chatbots.html</guid>
+			<pubDate>Fri, 18 Aug 2016 13:37:32 GMT</pubDate>
+			<description>Berkowitz published an interesting online article for guidelines on how to tackle even the toughest games! The CF Rockets loved his approach and whole-heartedly agree with his advice. Have a read yourself to step up your own game!</description>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ec2-54-93-216-56.eu-central-1.compute.amazonaws.com/rockets/rss/berkowitz.jpg" medium="image"></media:content>
+		</item>
+	</channel>
+</rss>

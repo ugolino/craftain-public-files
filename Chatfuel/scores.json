@@ -1,0 +1,36 @@
+[
+  {
+    "attachment":{
+      "type":"template",
+      "payload":{
+        "template_type":"generic",
+        "elements":[
+          {
+            "title":"CF Rockets VS VB Stars — 23 : 23",
+            "image_url":"http://ec2-54-93-216-56.eu-central-1.compute.amazonaws.com/rockets/json/match_vb.jpg",
+            "subtitle":"Aug 19, 2016",
+            "buttons":[
+              {
+                "type":"web_url",
+                "url":"http://www.nfl.com/gamecenter/",
+                "title":"Read More"
+              }
+            ]
+          },
+          {
+            "title":"CF Rockets VS TC Warriors — 32 : 29",
+            "image_url":"http://ec2-54-93-216-56.eu-central-1.compute.amazonaws.com/rockets/json/match_tc.jpg",
+            "subtitle":"Aug 11, 2016",
+            "buttons":[
+              {
+                "type":"web_url",
+                "url":"http://www.nfl.com/gamecenter/",
+                "title":"Read More"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]
